@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Piratpartiet.data.unityweb",
+"asmCodeUrl": "Piratpartiet.asm.code.unityweb",
+"asmMemoryUrl": "Piratpartiet.asm.memory.unityweb",
+"asmFrameworkUrl": "Piratpartiet.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
